@@ -1,53 +1,73 @@
-# Jogo do Numero Secreto
+# 🎮 Jogo do Número Secreto
 
 ![Badge Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Status do Projeto](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 
-# Índice 
+---
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#Autores)
+## 📋 Índice 
 
-* [Conclusão](#conclusão)
+* [📖 Descrição do Projeto](#-descrição-do-projeto)
+* [✔️ Status do Projeto](#️-status-do-projeto)
+* [🔨 Funcionalidades](#-funcionalidades-do-projeto)
+* [📁 Acesso ao Projeto](#-acesso-ao-projeto)
+* [🛠️ Como Abrir e Rodar o Projeto](#️-como-abrir-e-rodar-o-projeto)
+* [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+* [👩‍💻 Autor](#-autor)
 
-# Descrição do Projeto
+---
 
-  Projeto desenvolvido como forma de estudo em lógica de programação no programa ONE - Oracle Next Education - em parceria com a Alura.
+## 📖 Descrição do Projeto
 
-  A ideia do projeto é que a partir de uma pagina HTML, construir o código java script que gera um numero pseudoaleatório e que permita o usuário tentar acertar esse número, em que a cada tentativa, o jogo retorne uma dica se o chute está perto ou longe.   
+Projeto desenvolvido como forma de estudo em lógica de programação no programa **ONE - Oracle Next Education**, em parceria com a **Alura**.
 
-# Status do Projeto
-:heavy_check_mark: Projeto concluido :heavy_check_mark:
+A ideia do projeto é criar um jogo simples em que:
 
-# :hammer: Funcionalidades do projeto
+- A partir de uma página HTML, o código JavaScript gera um número pseudoaleatório.
+- O jogador tenta adivinhar o número gerado.
+- O jogo dá dicas ao jogador informando se o chute está mais próximo ou distante do número correto.
 
-- `Funcionalidade 1`: Geração de numeros pseudoaleatórios com Math.random
-- `Funcionalidade 2`: Funções que realizam verificação de input para analisar o chute 
+---
 
-# 📁 Acesso ao projeto
+## ✔️ Status do Projeto
 
-**Voce pode acessar o codigo do projeto ou [baixa-lo]( )**
+:heavy_check_mark: **Projeto concluído** :heavy_check_mark:
 
-# 🛠️ Abrir e rodar o projeto
+---
 
-**Abra o projeto de preferencia no Visual Code Studio e utilize a extensão live Server para uma melhor experiência ao abrir a pagina HTML**
+## 🔨 Funcionalidades do projeto
 
-# Tecnologias Utilizadas
+- **Geração de números pseudoaleatórios** utilizando `Math.random`.
+- **Funções de verificação do input** para analisar os chutes do usuário e retornar feedback.
 
-- ``Java Script``
-- ``HTML``
-- ``CSS``
+---
 
+## 📁 Acesso ao Projeto
 
-## Autores
+Você pode acessar o código diretamente neste repositório ou [baixá-lo aqui](#).
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/195215720?s=400&u=f536b6f2f37ec4af893cb10f0f872ee9588ff606&v=4" width=115><br><sub>Nickolas Streibel</sub>](https://github.com/Nickolas-streibel) | 
-| :---: | 
+---
+
+## 🛠️ Como Abrir e Rodar o Projeto
+
+1. Abra o projeto utilizando o editor de texto **Visual Studio Code**.
+2. Utilize a extensão **Live Server** para abrir o arquivo HTML e garantir uma melhor experiência ao jogar o jogo.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+---
+
+## 👩‍💻 Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/195215720?s=400&u=f536b6f2f37ec4af893cb10f0f872ee9588ff606&v=4" width=115><br><sub>Nickolas Streibel</sub>](https://github.com/Nickolas-streibel) | 
+| :---: |
+
+---
+
